@@ -1,0 +1,1035 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WFNews\n"
+"POT-Creation-Date: 2019-09-13 01:23+0600\n"
+"PO-Revision-Date: 2019-09-13 01:23+0600\n"
+"Last-Translator: \n"
+"Language-Team: Fluent Themes <mail@fluentthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;esc_html_e;esc_html__;__;_x;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: modules/admin-functions.php:27
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: modules/admin-functions.php:33
+#, php-format
+msgid "Welcome to WP Featured News - Version %s"
+msgstr ""
+
+#: modules/admin-functions.php:34
+msgid ""
+"Congratulations! You are about to use most powerful plugin for featuring "
+"your Posts."
+msgstr ""
+
+#: modules/admin-functions.php:35
+msgid "Version "
+msgstr ""
+
+#: modules/admin-functions.php:41
+msgid "WP Featured News"
+msgstr ""
+
+#: modules/admin-functions.php:41
+msgid "PRO Version Features"
+msgstr ""
+
+#: modules/admin-functions.php:44
+msgid ""
+"All the features of the Free version are also available in the Pro version. "
+"In addition, the following features are extra in Pro version:"
+msgstr ""
+
+#: modules/admin-functions.php:45
+msgid ""
+"More than 31 uniquely designed Post Blocks and a Popular Posts widget and "
+"Google AdSense widget"
+msgstr ""
+
+#: modules/admin-functions.php:46
+msgid ""
+"Change/Choose Heading and Heading styles. 13 different heading styles "
+"available for each Post Block."
+msgstr ""
+
+#: modules/admin-functions.php:47
+msgid ""
+"Choose which Title Tag (H1, H2, H3, H4, H5, H6) you want to use. Important "
+"for SEO"
+msgstr ""
+
+#: modules/admin-functions.php:48
+msgid ""
+"Select Next – Prev button switch with Ajax results. Clicking on \"Next\" OR "
+"\"Previous\" button will show you necessary posts without reloading the "
+"whole page"
+msgstr ""
+
+#: modules/admin-functions.php:49
+msgid ""
+"Select Tab options switch with Ajax results. You can show different "
+"categories in different tabs of a Post Block"
+msgstr ""
+
+#: modules/admin-functions.php:50
+msgid ""
+"Use Ajax Load More button to show More Posts without reloading/refreshing "
+"the page"
+msgstr ""
+
+#: modules/admin-functions.php:51
+msgid ""
+"Large Post Title Limit control. Control how many characters of the post "
+"title you want to show for the large post."
+msgstr ""
+
+#: modules/admin-functions.php:52
+msgid ""
+"Large Post Excerpt Limit set. Control how many words of the post excerpt you "
+"want to show for the large post."
+msgstr ""
+
+#: modules/admin-functions.php:53
+msgid "Choose Large Post Title Color"
+msgstr ""
+
+#: modules/admin-functions.php:54
+msgid ""
+"Small Posts Title Limit Set. Control how many characters of the post title "
+"you want to show for the small posts."
+msgstr ""
+
+#: modules/admin-functions.php:55
+msgid ""
+"Small Posts Excerpt Limit Set. Control how many words of the post excerpt "
+"you want to show for the small posts."
+msgstr ""
+
+#: modules/admin-functions.php:56
+msgid "Choose Block Active Tab color"
+msgstr ""
+
+#: modules/admin-functions.php:57
+msgid "Choose Block Heading color"
+msgstr ""
+
+#: modules/admin-functions.php:58 modules/p1/vc_shortcodes.php:352
+#: modules/p10/vc_shortcodes.php:201 modules/p2/vc_shortcodes.php:218
+#: modules/p3/vc_shortcodes.php:225 modules/p4/vc_shortcodes.php:234
+#: modules/p5/vc_shortcodes.php:244 modules/p6/vc_shortcodes.php:242
+#: modules/p7/vc_shortcodes.php:200 modules/p8/vc_shortcodes.php:208
+#: modules/p9/vc_shortcodes.php:192
+msgid "Choose Block Heading Background Color"
+msgstr ""
+
+#: modules/admin-functions.php:59
+msgid "Choose Heading Border Color"
+msgstr ""
+
+#: modules/admin-functions.php:60
+msgid ""
+"Hundreds of Google Fonts available to use for Titles/Content of all Post "
+"Blocks"
+msgstr ""
+
+#: modules/admin-functions.php:61
+msgid ""
+"Change/Choose Font Family, Font Size, Font Weight and Line Height for Title"
+msgstr ""
+
+#: modules/admin-functions.php:62
+msgid ""
+"Change/Choose Font Family, Font Size, Font Weight and Line Height for "
+"Headline"
+msgstr ""
+
+#: modules/admin-functions.php:63
+msgid ""
+"Change/Choose Font Family, Font Size, Font Weight and Line Height for Meta"
+msgstr ""
+
+#: modules/admin-functions.php:64
+msgid ""
+"Change/Choose Font Family, Font Size, Font Weight and Line Height for Excerpt"
+msgstr ""
+
+#: modules/admin-functions.php:65
+msgid ""
+"Change/Choose Font Family, Font Size, Font Weight and Line Height for Button"
+msgstr ""
+
+#: modules/admin-functions.php:66
+msgid "Priority Support usual respond time is less than 24 hours"
+msgstr ""
+
+#: modules/admin-functions.php:67
+msgid "And more.."
+msgstr ""
+
+#: modules/admin-functions.php:69
+msgid "BUY PRO VERSION"
+msgstr ""
+
+#: modules/admin-functions.php:70
+msgid "VIEW PRO DEMO"
+msgstr ""
+
+#: modules/inc/enqueue.php:17 modules/inc/enqueue.php:43
+#: modules/p1/shortcodes.php:363 modules/p10/shortcodes.php:314
+#: modules/p2/shortcodes.php:328 modules/p2/shortcodes.php:430
+#: modules/p4/shortcodes.php:356 modules/p4/shortcodes.php:460
+#: modules/p5/shortcodes.php:352 modules/p5/shortcodes.php:451
+#: modules/p7/shortcodes.php:289 modules/p9/shortcodes.php:279
+msgid "on"
+msgstr ""
+
+#: modules/p1/shortcodes.php:349 modules/p10/shortcodes.php:301
+#: modules/p2/shortcodes.php:336 modules/p3/shortcodes.php:334
+#: modules/p4/shortcodes.php:364 modules/p5/shortcodes.php:340
+#: modules/p6/shortcodes.php:321 modules/p7/shortcodes.php:277
+#: modules/p8/shortcodes.php:273 modules/p9/shortcodes.php:287
+msgid "Post Block"
+msgstr ""
+
+#: modules/p1/shortcodes.php:349 modules/p10/shortcodes.php:301
+#: modules/p2/shortcodes.php:336 modules/p3/shortcodes.php:334
+#: modules/p4/shortcodes.php:364 modules/p5/shortcodes.php:340
+#: modules/p6/shortcodes.php:321 modules/p7/shortcodes.php:277
+#: modules/p8/shortcodes.php:273 modules/p9/shortcodes.php:287
+msgid "Click Here"
+msgstr ""
+
+#: modules/p1/shortcodes.php:349 modules/p10/shortcodes.php:301
+#: modules/p2/shortcodes.php:336 modules/p3/shortcodes.php:334
+#: modules/p4/shortcodes.php:364 modules/p5/shortcodes.php:340
+#: modules/p6/shortcodes.php:321 modules/p7/shortcodes.php:277
+#: modules/p8/shortcodes.php:273 modules/p9/shortcodes.php:287
+msgid "to view all features of this post-block"
+msgstr ""
+
+#: modules/p1/shortcodes.php:361 modules/p10/shortcodes.php:313
+#: modules/p2/shortcodes.php:327 modules/p2/shortcodes.php:429
+#: modules/p4/shortcodes.php:355 modules/p4/shortcodes.php:459
+#: modules/p5/shortcodes.php:351 modules/p5/shortcodes.php:450
+#: modules/p7/shortcodes.php:288
+msgid "by"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:7 modules/p10/vc_shortcodes.php:7
+#: modules/p2/vc_shortcodes.php:7 modules/p3/vc_shortcodes.php:7
+#: modules/p4/vc_shortcodes.php:7 modules/p5/vc_shortcodes.php:7
+#: modules/p6/vc_shortcodes.php:7 modules/p7/vc_shortcodes.php:7
+#: modules/p8/vc_shortcodes.php:7 modules/p9/vc_shortcodes.php:7
+msgid "[PRO FEATURE]"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:13
+msgid "FThemes - Post Block 1"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:17 modules/p10/vc_shortcodes.php:17
+#: modules/p2/vc_shortcodes.php:17 modules/p3/vc_shortcodes.php:17
+#: modules/p4/vc_shortcodes.php:17 modules/p5/vc_shortcodes.php:17
+#: modules/p6/vc_shortcodes.php:17 modules/p7/vc_shortcodes.php:17
+#: modules/p8/vc_shortcodes.php:17 modules/p9/vc_shortcodes.php:17
+msgid "by Fluent-Themes Shortcodes"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:20
+msgid "Post Block 1"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:25 modules/p10/vc_shortcodes.php:25
+#: modules/p2/vc_shortcodes.php:25 modules/p3/vc_shortcodes.php:25
+#: modules/p4/vc_shortcodes.php:25 modules/p5/vc_shortcodes.php:25
+#: modules/p6/vc_shortcodes.php:25 modules/p7/vc_shortcodes.php:25
+#: modules/p8/vc_shortcodes.php:25 modules/p9/vc_shortcodes.php:25
+msgid "Heading"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:34 modules/p10/vc_shortcodes.php:34
+#: modules/p2/vc_shortcodes.php:34 modules/p3/vc_shortcodes.php:51
+#: modules/p4/vc_shortcodes.php:34 modules/p5/vc_shortcodes.php:34
+#: modules/p6/vc_shortcodes.php:34 modules/p7/vc_shortcodes.php:34
+#: modules/p8/vc_shortcodes.php:34 modules/p9/vc_shortcodes.php:34
+msgid "Heading Style"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:58 modules/p10/vc_shortcodes.php:58
+#: modules/p2/vc_shortcodes.php:58 modules/p3/vc_shortcodes.php:75
+#: modules/p4/vc_shortcodes.php:58 modules/p5/vc_shortcodes.php:58
+#: modules/p6/vc_shortcodes.php:58 modules/p7/vc_shortcodes.php:58
+#: modules/p8/vc_shortcodes.php:58 modules/p9/vc_shortcodes.php:58
+msgid "Choose Title Tag"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:78 modules/p10/vc_shortcodes.php:78
+#: modules/p2/vc_shortcodes.php:78 modules/p3/vc_shortcodes.php:34
+#: modules/p4/vc_shortcodes.php:78 modules/p5/vc_shortcodes.php:78
+#: modules/p6/vc_shortcodes.php:78 modules/p7/vc_shortcodes.php:78
+#: modules/p8/vc_shortcodes.php:78 modules/p9/vc_shortcodes.php:78
+msgid "Select Category"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:86 modules/p10/vc_shortcodes.php:87
+#: modules/p2/vc_shortcodes.php:86 modules/p3/vc_shortcodes.php:43
+#: modules/p4/vc_shortcodes.php:87 modules/p5/vc_shortcodes.php:87
+#: modules/p6/vc_shortcodes.php:87 modules/p7/vc_shortcodes.php:87
+#: modules/p8/vc_shortcodes.php:87 modules/p9/vc_shortcodes.php:87
+msgid "Select Post Types"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:94 modules/p10/vc_shortcodes.php:95
+#: modules/p2/vc_shortcodes.php:94 modules/p3/vc_shortcodes.php:95
+#: modules/p4/vc_shortcodes.php:95 modules/p5/vc_shortcodes.php:95
+#: modules/p6/vc_shortcodes.php:95 modules/p7/vc_shortcodes.php:95
+#: modules/p8/vc_shortcodes.php:95 modules/p9/vc_shortcodes.php:95
+msgid "Do you want Image Animate?"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:106 modules/p10/vc_shortcodes.php:107
+#: modules/p2/vc_shortcodes.php:106 modules/p3/vc_shortcodes.php:107
+#: modules/p4/vc_shortcodes.php:107 modules/p5/vc_shortcodes.php:107
+#: modules/p6/vc_shortcodes.php:107 modules/p7/vc_shortcodes.php:107
+#: modules/p8/vc_shortcodes.php:107 modules/p9/vc_shortcodes.php:107
+msgid "Do you want Border?"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:118 modules/p10/vc_shortcodes.php:119
+#: modules/p2/vc_shortcodes.php:118 modules/p3/vc_shortcodes.php:119
+#: modules/p4/vc_shortcodes.php:119 modules/p5/vc_shortcodes.php:120
+#: modules/p6/vc_shortcodes.php:119 modules/p7/vc_shortcodes.php:131
+#: modules/p8/vc_shortcodes.php:131 modules/p9/vc_shortcodes.php:131
+msgid "Block Border Color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:125 modules/p10/vc_shortcodes.php:126
+#: modules/p2/vc_shortcodes.php:125 modules/p3/vc_shortcodes.php:126
+#: modules/p4/vc_shortcodes.php:126 modules/p5/vc_shortcodes.php:127
+#: modules/p6/vc_shortcodes.php:126 modules/p7/vc_shortcodes.php:138
+#: modules/p8/vc_shortcodes.php:138 modules/p9/vc_shortcodes.php:138
+msgid "Choose Block Border color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:130 modules/p10/vc_shortcodes.php:131
+#: modules/p2/vc_shortcodes.php:130 modules/p3/vc_shortcodes.php:131
+#: modules/p4/vc_shortcodes.php:131 modules/p5/vc_shortcodes.php:133
+#: modules/p6/vc_shortcodes.php:131 modules/p7/vc_shortcodes.php:143
+#: modules/p8/vc_shortcodes.php:143 modules/p9/vc_shortcodes.php:143
+msgid "Block Background Color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:137 modules/p10/vc_shortcodes.php:138
+#: modules/p2/vc_shortcodes.php:137 modules/p3/vc_shortcodes.php:138
+#: modules/p4/vc_shortcodes.php:138 modules/p5/vc_shortcodes.php:140
+#: modules/p6/vc_shortcodes.php:138 modules/p7/vc_shortcodes.php:150
+#: modules/p8/vc_shortcodes.php:150 modules/p9/vc_shortcodes.php:150
+msgid "Choose Block Background color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:142
+msgid "Do you want Next - Prev button?"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:154
+msgid "Do you want Tab options?"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:166
+msgid "Choose Category For Top Tab"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:178 modules/p6/vc_shortcodes.php:180
+msgid "Choose Category For Tab Dropdown"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:185
+msgid "Choose minimum 2 categories to display dropdown."
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:190 modules/p1/vc_shortcodes.php:197
+#: modules/p6/vc_shortcodes.php:192 modules/p6/vc_shortcodes.php:199
+msgid "Choose Background For Tab Dropdown"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:203 modules/p2/vc_shortcodes.php:154
+#: modules/p3/vc_shortcodes.php:155 modules/p4/vc_shortcodes.php:155
+#: modules/p5/vc_shortcodes.php:157
+msgid "Large Post ID (Optional)"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:211 modules/p2/vc_shortcodes.php:272
+#: modules/p3/vc_shortcodes.php:455 modules/p4/vc_shortcodes.php:493
+#: modules/p5/vc_shortcodes.php:494
+msgid "On/Off Large post category meta"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:223 modules/p2/vc_shortcodes.php:284
+#: modules/p3/vc_shortcodes.php:467 modules/p4/vc_shortcodes.php:505
+#: modules/p5/vc_shortcodes.php:506
+msgid "On/Off Large post author, date, comment meta"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:235 modules/p2/vc_shortcodes.php:162
+#: modules/p3/vc_shortcodes.php:163 modules/p4/vc_shortcodes.php:163
+#: modules/p5/vc_shortcodes.php:165
+msgid "Large Post Title Limit In Character (Optional)"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:244 modules/p2/vc_shortcodes.php:171
+#: modules/p5/vc_shortcodes.php:174
+msgid "Large Post Excerpt Limit In Word (Optional)"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:252 modules/p2/vc_shortcodes.php:256
+#: modules/p3/vc_shortcodes.php:503 modules/p4/vc_shortcodes.php:541
+#: modules/p5/vc_shortcodes.php:542
+msgid "Large Post Title Color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:260 modules/p2/vc_shortcodes.php:264
+#: modules/p3/vc_shortcodes.php:511 modules/p4/vc_shortcodes.php:549
+#: modules/p5/vc_shortcodes.php:550
+msgid "Large Post Meta Color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:268 modules/p2/vc_shortcodes.php:296
+#: modules/p3/vc_shortcodes.php:519 modules/p4/vc_shortcodes.php:557
+#: modules/p5/vc_shortcodes.php:558
+msgid "Small Post Title Color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:277 modules/p2/vc_shortcodes.php:304
+#: modules/p3/vc_shortcodes.php:527 modules/p4/vc_shortcodes.php:565
+#: modules/p5/vc_shortcodes.php:566
+msgid "Small Post Meta Color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:286 modules/p10/vc_shortcodes.php:471
+#: modules/p2/vc_shortcodes.php:324 modules/p3/vc_shortcodes.php:491
+#: modules/p4/vc_shortcodes.php:529 modules/p5/vc_shortcodes.php:530
+msgid "On/Off Small post date meta"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:298 modules/p10/vc_shortcodes.php:155
+#: modules/p2/vc_shortcodes.php:179 modules/p3/vc_shortcodes.php:172
+#: modules/p4/vc_shortcodes.php:172 modules/p5/vc_shortcodes.php:182
+#: modules/p7/vc_shortcodes.php:163 modules/p8/vc_shortcodes.php:155
+#: modules/p9/vc_shortcodes.php:155
+msgid "Post Item"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:307 modules/p10/vc_shortcodes.php:164
+#: modules/p2/vc_shortcodes.php:188 modules/p3/vc_shortcodes.php:181
+#: modules/p4/vc_shortcodes.php:181 modules/p6/vc_shortcodes.php:221
+#: modules/p7/vc_shortcodes.php:172 modules/p9/vc_shortcodes.php:164
+msgid "Another Posts Title Limit In Character (Optional)"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:316 modules/p10/vc_shortcodes.php:173
+#: modules/p2/vc_shortcodes.php:197 modules/p4/vc_shortcodes.php:190
+msgid "Another Posts Excerpt Limit In Word"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:325 modules/p2/vc_shortcodes.php:248
+msgid "Block Meta anchor color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:328 modules/p1/vc_shortcodes.php:336
+#: modules/p10/vc_shortcodes.php:185 modules/p2/vc_shortcodes.php:251
+#: modules/p3/vc_shortcodes.php:209 modules/p4/vc_shortcodes.php:218
+#: modules/p5/vc_shortcodes.php:228 modules/p7/vc_shortcodes.php:184
+#: modules/p8/vc_shortcodes.php:192 modules/p9/vc_shortcodes.php:176
+msgid "Choose Block color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:333
+msgid "Block Active Tab color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:341 modules/p10/vc_shortcodes.php:190
+#: modules/p2/vc_shortcodes.php:207 modules/p3/vc_shortcodes.php:214
+#: modules/p4/vc_shortcodes.php:223 modules/p5/vc_shortcodes.php:233
+#: modules/p6/vc_shortcodes.php:231 modules/p7/vc_shortcodes.php:189
+#: modules/p8/vc_shortcodes.php:197 modules/p9/vc_shortcodes.php:181
+msgid "Block Heading Color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:344 modules/p10/vc_shortcodes.php:193
+#: modules/p2/vc_shortcodes.php:210 modules/p3/vc_shortcodes.php:217
+#: modules/p4/vc_shortcodes.php:226 modules/p5/vc_shortcodes.php:236
+#: modules/p6/vc_shortcodes.php:234 modules/p7/vc_shortcodes.php:192
+#: modules/p8/vc_shortcodes.php:200 modules/p9/vc_shortcodes.php:184
+msgid "Choose Block Heading Color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:349 modules/p10/vc_shortcodes.php:198
+#: modules/p2/vc_shortcodes.php:215 modules/p3/vc_shortcodes.php:222
+#: modules/p4/vc_shortcodes.php:231 modules/p5/vc_shortcodes.php:241
+#: modules/p6/vc_shortcodes.php:239 modules/p7/vc_shortcodes.php:197
+#: modules/p8/vc_shortcodes.php:205 modules/p9/vc_shortcodes.php:189
+msgid "Block Heading Background Color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:358 modules/p10/vc_shortcodes.php:214
+#: modules/p2/vc_shortcodes.php:224 modules/p3/vc_shortcodes.php:238
+#: modules/p4/vc_shortcodes.php:247 modules/p5/vc_shortcodes.php:257
+#: modules/p7/vc_shortcodes.php:213
+msgid "Block Text color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:361 modules/p10/vc_shortcodes.php:217
+#: modules/p10/vc_shortcodes.php:233 modules/p2/vc_shortcodes.php:227
+#: modules/p3/vc_shortcodes.php:241 modules/p3/vc_shortcodes.php:265
+#: modules/p4/vc_shortcodes.php:250 modules/p4/vc_shortcodes.php:274
+#: modules/p5/vc_shortcodes.php:260 modules/p5/vc_shortcodes.php:276
+#: modules/p6/vc_shortcodes.php:267 modules/p7/vc_shortcodes.php:216
+#: modules/p7/vc_shortcodes.php:232 modules/p8/vc_shortcodes.php:233
+#: modules/p9/vc_shortcodes.php:217
+msgid "Choose Block Text color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:366 modules/p10/vc_shortcodes.php:222
+#: modules/p2/vc_shortcodes.php:240 modules/p3/vc_shortcodes.php:254
+#: modules/p4/vc_shortcodes.php:263 modules/p5/vc_shortcodes.php:265
+#: modules/p6/vc_shortcodes.php:256 modules/p7/vc_shortcodes.php:221
+#: modules/p8/vc_shortcodes.php:222 modules/p9/vc_shortcodes.php:206
+msgid "Block Link Hover color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:369 modules/p10/vc_shortcodes.php:225
+#: modules/p2/vc_shortcodes.php:243 modules/p3/vc_shortcodes.php:257
+#: modules/p4/vc_shortcodes.php:266 modules/p5/vc_shortcodes.php:268
+#: modules/p6/vc_shortcodes.php:259 modules/p7/vc_shortcodes.php:224
+#: modules/p8/vc_shortcodes.php:225 modules/p9/vc_shortcodes.php:209
+msgid "Choose Block Link Hover color"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:375 modules/p10/vc_shortcodes.php:238
+#: modules/p2/vc_shortcodes.php:232 modules/p3/vc_shortcodes.php:246
+#: modules/p4/vc_shortcodes.php:255 modules/p9/vc_shortcodes.php:222
+msgid "Block Category Background"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:378 modules/p10/vc_shortcodes.php:241
+#: modules/p2/vc_shortcodes.php:235 modules/p3/vc_shortcodes.php:249
+#: modules/p4/vc_shortcodes.php:258 modules/p9/vc_shortcodes.php:225
+msgid "Choose Block Category Background"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:383 modules/p10/vc_shortcodes.php:246
+#: modules/p2/vc_shortcodes.php:336 modules/p3/vc_shortcodes.php:190
+#: modules/p4/vc_shortcodes.php:199 modules/p5/vc_shortcodes.php:209
+#: modules/p6/vc_shortcodes.php:204 modules/p7/vc_shortcodes.php:237
+#: modules/p8/vc_shortcodes.php:173 modules/p9/vc_shortcodes.php:230
+msgid "Block Padding"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:385 modules/p10/vc_shortcodes.php:248
+#: modules/p2/vc_shortcodes.php:338 modules/p3/vc_shortcodes.php:192
+#: modules/p4/vc_shortcodes.php:201 modules/p5/vc_shortcodes.php:211
+#: modules/p6/vc_shortcodes.php:206 modules/p7/vc_shortcodes.php:239
+#: modules/p8/vc_shortcodes.php:175 modules/p9/vc_shortcodes.php:232
+msgid ""
+"Example: 10px 5px 0px 10px. It means(top padding is 10px,right padding is "
+"5px,bottom padding is 0px,left padding is 10px)"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:391 modules/p10/vc_shortcodes.php:254
+#: modules/p2/vc_shortcodes.php:344 modules/p3/vc_shortcodes.php:198
+#: modules/p4/vc_shortcodes.php:207 modules/p5/vc_shortcodes.php:217
+#: modules/p6/vc_shortcodes.php:212 modules/p7/vc_shortcodes.php:245
+#: modules/p8/vc_shortcodes.php:181 modules/p9/vc_shortcodes.php:238
+msgid "Block Margin"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:393 modules/p10/vc_shortcodes.php:256
+#: modules/p2/vc_shortcodes.php:346 modules/p3/vc_shortcodes.php:200
+#: modules/p4/vc_shortcodes.php:209 modules/p5/vc_shortcodes.php:219
+#: modules/p6/vc_shortcodes.php:214 modules/p7/vc_shortcodes.php:247
+#: modules/p8/vc_shortcodes.php:183 modules/p9/vc_shortcodes.php:240
+msgid ""
+"Example: 10px 5px 0px 10px. It means(top margin is 10px,right margin is 5px,"
+"bottom margin is 0px,left margin is 10px)"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:399 modules/p10/vc_shortcodes.php:262
+#: modules/p2/vc_shortcodes.php:352 modules/p3/vc_shortcodes.php:270
+#: modules/p4/vc_shortcodes.php:279 modules/p5/vc_shortcodes.php:281
+#: modules/p6/vc_shortcodes.php:284 modules/p7/vc_shortcodes.php:253
+#: modules/p8/vc_shortcodes.php:239 modules/p9/vc_shortcodes.php:246
+msgid "Order By"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:414 modules/p10/vc_shortcodes.php:277
+#: modules/p2/vc_shortcodes.php:367 modules/p3/vc_shortcodes.php:285
+#: modules/p4/vc_shortcodes.php:294 modules/p5/vc_shortcodes.php:296
+#: modules/p6/vc_shortcodes.php:299 modules/p7/vc_shortcodes.php:268
+#: modules/p8/vc_shortcodes.php:254 modules/p9/vc_shortcodes.php:261
+msgid "Order"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:426 modules/p10/vc_shortcodes.php:289
+#: modules/p2/vc_shortcodes.php:379 modules/p3/vc_shortcodes.php:297
+#: modules/p4/vc_shortcodes.php:306 modules/p5/vc_shortcodes.php:308
+#: modules/p6/vc_shortcodes.php:311 modules/p7/vc_shortcodes.php:280
+#: modules/p8/vc_shortcodes.php:266 modules/p9/vc_shortcodes.php:273
+msgid "Current Time (Do not Change It)"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:435 modules/p10/vc_shortcodes.php:298
+#: modules/p2/vc_shortcodes.php:388 modules/p3/vc_shortcodes.php:306
+#: modules/p4/vc_shortcodes.php:315 modules/p5/vc_shortcodes.php:317
+#: modules/p6/vc_shortcodes.php:320 modules/p7/vc_shortcodes.php:289
+#: modules/p8/vc_shortcodes.php:275 modules/p9/vc_shortcodes.php:282
+msgid "Shortcode Number"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:437 modules/p10/vc_shortcodes.php:300
+#: modules/p2/vc_shortcodes.php:390 modules/p3/vc_shortcodes.php:308
+#: modules/p4/vc_shortcodes.php:317 modules/p5/vc_shortcodes.php:319
+#: modules/p6/vc_shortcodes.php:322 modules/p7/vc_shortcodes.php:291
+#: modules/p8/vc_shortcodes.php:277 modules/p9/vc_shortcodes.php:284
+msgid "Leave it Empty. Its for showcasing the element only."
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:444 modules/p1/vc_shortcodes.php:498
+#: modules/p1/vc_shortcodes.php:528 modules/p1/vc_shortcodes.php:557
+#: modules/p1/vc_shortcodes.php:586 modules/p10/vc_shortcodes.php:307
+#: modules/p10/vc_shortcodes.php:344 modules/p10/vc_shortcodes.php:375
+#: modules/p10/vc_shortcodes.php:404 modules/p10/vc_shortcodes.php:433
+#: modules/p2/vc_shortcodes.php:397 modules/p2/vc_shortcodes.php:450
+#: modules/p2/vc_shortcodes.php:480 modules/p2/vc_shortcodes.php:509
+#: modules/p2/vc_shortcodes.php:538 modules/p3/vc_shortcodes.php:315
+#: modules/p3/vc_shortcodes.php:368 modules/p3/vc_shortcodes.php:399
+#: modules/p3/vc_shortcodes.php:428 modules/p4/vc_shortcodes.php:324
+#: modules/p4/vc_shortcodes.php:377 modules/p4/vc_shortcodes.php:408
+#: modules/p4/vc_shortcodes.php:437 modules/p4/vc_shortcodes.php:466
+#: modules/p5/vc_shortcodes.php:326 modules/p5/vc_shortcodes.php:379
+#: modules/p5/vc_shortcodes.php:410 modules/p5/vc_shortcodes.php:439
+#: modules/p5/vc_shortcodes.php:468 modules/p6/vc_shortcodes.php:329
+#: modules/p6/vc_shortcodes.php:366 modules/p6/vc_shortcodes.php:397
+#: modules/p6/vc_shortcodes.php:426 modules/p7/vc_shortcodes.php:298
+#: modules/p7/vc_shortcodes.php:335 modules/p7/vc_shortcodes.php:366
+#: modules/p7/vc_shortcodes.php:395 modules/p8/vc_shortcodes.php:284
+#: modules/p8/vc_shortcodes.php:321 modules/p8/vc_shortcodes.php:352
+#: modules/p8/vc_shortcodes.php:381 modules/p9/vc_shortcodes.php:291
+#: modules/p9/vc_shortcodes.php:328 modules/p9/vc_shortcodes.php:359
+#: modules/p9/vc_shortcodes.php:388
+msgid "Select Font Family."
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:445 modules/p1/vc_shortcodes.php:499
+#: modules/p1/vc_shortcodes.php:529 modules/p1/vc_shortcodes.php:558
+#: modules/p1/vc_shortcodes.php:587 modules/p10/vc_shortcodes.php:308
+#: modules/p10/vc_shortcodes.php:345 modules/p10/vc_shortcodes.php:376
+#: modules/p10/vc_shortcodes.php:405 modules/p10/vc_shortcodes.php:434
+#: modules/p2/vc_shortcodes.php:398 modules/p2/vc_shortcodes.php:451
+#: modules/p2/vc_shortcodes.php:481 modules/p2/vc_shortcodes.php:510
+#: modules/p2/vc_shortcodes.php:539 modules/p3/vc_shortcodes.php:316
+#: modules/p3/vc_shortcodes.php:369 modules/p3/vc_shortcodes.php:400
+#: modules/p3/vc_shortcodes.php:429 modules/p4/vc_shortcodes.php:325
+#: modules/p4/vc_shortcodes.php:378 modules/p4/vc_shortcodes.php:409
+#: modules/p4/vc_shortcodes.php:438 modules/p4/vc_shortcodes.php:467
+#: modules/p5/vc_shortcodes.php:327 modules/p5/vc_shortcodes.php:380
+#: modules/p5/vc_shortcodes.php:411 modules/p5/vc_shortcodes.php:440
+#: modules/p5/vc_shortcodes.php:469 modules/p6/vc_shortcodes.php:330
+#: modules/p6/vc_shortcodes.php:367 modules/p6/vc_shortcodes.php:398
+#: modules/p6/vc_shortcodes.php:427 modules/p7/vc_shortcodes.php:299
+#: modules/p7/vc_shortcodes.php:336 modules/p7/vc_shortcodes.php:367
+#: modules/p7/vc_shortcodes.php:396 modules/p8/vc_shortcodes.php:285
+#: modules/p8/vc_shortcodes.php:322 modules/p8/vc_shortcodes.php:353
+#: modules/p8/vc_shortcodes.php:382 modules/p9/vc_shortcodes.php:292
+#: modules/p9/vc_shortcodes.php:329 modules/p9/vc_shortcodes.php:360
+#: modules/p9/vc_shortcodes.php:389
+msgid "Select Font Style."
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:455 modules/p2/vc_shortcodes.php:407
+#: modules/p3/vc_shortcodes.php:325 modules/p4/vc_shortcodes.php:334
+#: modules/p5/vc_shortcodes.php:336
+msgid "Large Title Font Size"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:463 modules/p2/vc_shortcodes.php:415
+#: modules/p3/vc_shortcodes.php:333 modules/p4/vc_shortcodes.php:342
+#: modules/p5/vc_shortcodes.php:344
+msgid "Small Title Font Size"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:471 modules/p2/vc_shortcodes.php:423
+#: modules/p3/vc_shortcodes.php:341 modules/p4/vc_shortcodes.php:350
+#: modules/p5/vc_shortcodes.php:352
+msgid "Large Title Line Height"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:479 modules/p2/vc_shortcodes.php:431
+#: modules/p3/vc_shortcodes.php:349 modules/p4/vc_shortcodes.php:358
+#: modules/p5/vc_shortcodes.php:360
+msgid "Small Title Line Height"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:487 modules/p10/vc_shortcodes.php:333
+#: modules/p2/vc_shortcodes.php:439 modules/p3/vc_shortcodes.php:357
+#: modules/p4/vc_shortcodes.php:366 modules/p5/vc_shortcodes.php:368
+#: modules/p6/vc_shortcodes.php:355 modules/p7/vc_shortcodes.php:324
+#: modules/p8/vc_shortcodes.php:310 modules/p9/vc_shortcodes.php:317
+msgid "Title Padding Bottom"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:489 modules/p10/vc_shortcodes.php:335
+#: modules/p2/vc_shortcodes.php:441 modules/p3/vc_shortcodes.php:359
+#: modules/p4/vc_shortcodes.php:368 modules/p5/vc_shortcodes.php:370
+#: modules/p6/vc_shortcodes.php:357 modules/p7/vc_shortcodes.php:326
+#: modules/p8/vc_shortcodes.php:312 modules/p9/vc_shortcodes.php:319
+msgid "Example: 10px"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:494 modules/p10/vc_shortcodes.php:340
+#: modules/p2/vc_shortcodes.php:446 modules/p3/vc_shortcodes.php:364
+#: modules/p4/vc_shortcodes.php:373 modules/p5/vc_shortcodes.php:375
+#: modules/p6/vc_shortcodes.php:362 modules/p7/vc_shortcodes.php:331
+#: modules/p8/vc_shortcodes.php:317 modules/p9/vc_shortcodes.php:324
+msgid "Headline Google Font"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:508 modules/p10/vc_shortcodes.php:354
+#: modules/p2/vc_shortcodes.php:460 modules/p3/vc_shortcodes.php:378
+#: modules/p4/vc_shortcodes.php:387 modules/p5/vc_shortcodes.php:389
+#: modules/p6/vc_shortcodes.php:376 modules/p7/vc_shortcodes.php:345
+#: modules/p8/vc_shortcodes.php:331 modules/p9/vc_shortcodes.php:338
+msgid "Headline Font Size"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:517 modules/p10/vc_shortcodes.php:363
+#: modules/p2/vc_shortcodes.php:469 modules/p3/vc_shortcodes.php:387
+#: modules/p4/vc_shortcodes.php:396 modules/p5/vc_shortcodes.php:398
+#: modules/p6/vc_shortcodes.php:385 modules/p7/vc_shortcodes.php:354
+#: modules/p8/vc_shortcodes.php:340 modules/p9/vc_shortcodes.php:347
+msgid "Headline Line Height"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:524 modules/p10/vc_shortcodes.php:400
+#: modules/p2/vc_shortcodes.php:476 modules/p4/vc_shortcodes.php:462
+#: modules/p5/vc_shortcodes.php:435
+msgid "Excerpt Google Font"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:538 modules/p10/vc_shortcodes.php:414
+#: modules/p2/vc_shortcodes.php:490 modules/p4/vc_shortcodes.php:476
+#: modules/p5/vc_shortcodes.php:449
+msgid "Excerpt Font Size"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:540 modules/p1/vc_shortcodes.php:569
+#: modules/p1/vc_shortcodes.php:598 modules/p10/vc_shortcodes.php:387
+#: modules/p10/vc_shortcodes.php:416 modules/p10/vc_shortcodes.php:445
+#: modules/p2/vc_shortcodes.php:492 modules/p2/vc_shortcodes.php:521
+#: modules/p2/vc_shortcodes.php:550 modules/p3/vc_shortcodes.php:411
+#: modules/p3/vc_shortcodes.php:440 modules/p4/vc_shortcodes.php:420
+#: modules/p4/vc_shortcodes.php:449 modules/p4/vc_shortcodes.php:478
+#: modules/p5/vc_shortcodes.php:422 modules/p5/vc_shortcodes.php:451
+#: modules/p5/vc_shortcodes.php:480 modules/p6/vc_shortcodes.php:409
+#: modules/p6/vc_shortcodes.php:438 modules/p7/vc_shortcodes.php:378
+#: modules/p7/vc_shortcodes.php:407 modules/p8/vc_shortcodes.php:364
+#: modules/p8/vc_shortcodes.php:393 modules/p9/vc_shortcodes.php:371
+#: modules/p9/vc_shortcodes.php:400
+msgid "Insert font size (e.g 22px)"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:546 modules/p10/vc_shortcodes.php:422
+#: modules/p2/vc_shortcodes.php:498 modules/p4/vc_shortcodes.php:484
+#: modules/p5/vc_shortcodes.php:457
+msgid "Excerpt Line Height"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:548 modules/p1/vc_shortcodes.php:577
+#: modules/p10/vc_shortcodes.php:395 modules/p10/vc_shortcodes.php:424
+#: modules/p2/vc_shortcodes.php:500 modules/p2/vc_shortcodes.php:529
+#: modules/p3/vc_shortcodes.php:419 modules/p4/vc_shortcodes.php:428
+#: modules/p4/vc_shortcodes.php:486 modules/p5/vc_shortcodes.php:430
+#: modules/p5/vc_shortcodes.php:459 modules/p6/vc_shortcodes.php:417
+#: modules/p7/vc_shortcodes.php:386 modules/p8/vc_shortcodes.php:372
+#: modules/p9/vc_shortcodes.php:379
+msgid "Insert title line height (e.g 22px)"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:553 modules/p10/vc_shortcodes.php:371
+#: modules/p2/vc_shortcodes.php:505 modules/p3/vc_shortcodes.php:395
+#: modules/p4/vc_shortcodes.php:404 modules/p5/vc_shortcodes.php:406
+#: modules/p6/vc_shortcodes.php:393 modules/p7/vc_shortcodes.php:362
+#: modules/p8/vc_shortcodes.php:348 modules/p9/vc_shortcodes.php:355
+msgid "Meta Google Font"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:567 modules/p10/vc_shortcodes.php:385
+#: modules/p2/vc_shortcodes.php:519 modules/p3/vc_shortcodes.php:409
+#: modules/p4/vc_shortcodes.php:418 modules/p5/vc_shortcodes.php:420
+#: modules/p6/vc_shortcodes.php:407 modules/p7/vc_shortcodes.php:376
+#: modules/p8/vc_shortcodes.php:362 modules/p9/vc_shortcodes.php:369
+msgid "Meta Font Size"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:575 modules/p10/vc_shortcodes.php:393
+#: modules/p2/vc_shortcodes.php:527 modules/p3/vc_shortcodes.php:417
+#: modules/p4/vc_shortcodes.php:426 modules/p5/vc_shortcodes.php:428
+#: modules/p6/vc_shortcodes.php:415 modules/p7/vc_shortcodes.php:384
+#: modules/p8/vc_shortcodes.php:370 modules/p9/vc_shortcodes.php:377
+msgid "Meta Line Height"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:582 modules/p10/vc_shortcodes.php:429
+#: modules/p2/vc_shortcodes.php:534 modules/p3/vc_shortcodes.php:424
+#: modules/p4/vc_shortcodes.php:433 modules/p5/vc_shortcodes.php:464
+#: modules/p6/vc_shortcodes.php:422 modules/p7/vc_shortcodes.php:391
+#: modules/p8/vc_shortcodes.php:377 modules/p9/vc_shortcodes.php:384
+msgid "Button Google Font"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:596 modules/p10/vc_shortcodes.php:443
+#: modules/p2/vc_shortcodes.php:548 modules/p3/vc_shortcodes.php:438
+#: modules/p4/vc_shortcodes.php:447 modules/p5/vc_shortcodes.php:478
+#: modules/p6/vc_shortcodes.php:436 modules/p7/vc_shortcodes.php:405
+#: modules/p8/vc_shortcodes.php:391 modules/p9/vc_shortcodes.php:398
+msgid "Button Font Size"
+msgstr ""
+
+#: modules/p1/vc_shortcodes.php:604 modules/p10/vc_shortcodes.php:491
+#: modules/p2/vc_shortcodes.php:564 modules/p3/vc_shortcodes.php:543
+#: modules/p4/vc_shortcodes.php:581 modules/p5/vc_shortcodes.php:582
+#: modules/p6/vc_shortcodes.php:444 modules/p7/vc_shortcodes.php:453
+#: modules/p8/vc_shortcodes.php:419 modules/p9/vc_shortcodes.php:414
+msgid "Heading Border Color"
+msgstr ""
+
+#: modules/p10/shortcodes.php:319 modules/p4/shortcodes.php:465
+msgid "Read More"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:13
+msgid "FThemes - Post Block 10"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:20
+msgid "Post Block 10"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:143 modules/p2/vc_shortcodes.php:142
+#: modules/p3/vc_shortcodes.php:143 modules/p4/vc_shortcodes.php:143
+#: modules/p5/vc_shortcodes.php:145 modules/p6/vc_shortcodes.php:144
+#: modules/p7/vc_shortcodes.php:119 modules/p8/vc_shortcodes.php:119
+#: modules/p9/vc_shortcodes.php:119
+msgid "Do you want load more?"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:182 modules/p3/vc_shortcodes.php:206
+#: modules/p4/vc_shortcodes.php:215 modules/p5/vc_shortcodes.php:225
+#: modules/p7/vc_shortcodes.php:181 modules/p8/vc_shortcodes.php:189
+#: modules/p9/vc_shortcodes.php:173
+msgid "Block color"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:206 modules/p3/vc_shortcodes.php:230
+#: modules/p4/vc_shortcodes.php:239 modules/p5/vc_shortcodes.php:249
+#: modules/p6/vc_shortcodes.php:247 modules/p7/vc_shortcodes.php:205
+#: modules/p8/vc_shortcodes.php:213 modules/p9/vc_shortcodes.php:197
+msgid "Block Post Title color"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:209 modules/p3/vc_shortcodes.php:233
+#: modules/p4/vc_shortcodes.php:242 modules/p5/vc_shortcodes.php:252
+#: modules/p6/vc_shortcodes.php:250 modules/p7/vc_shortcodes.php:208
+#: modules/p8/vc_shortcodes.php:216 modules/p9/vc_shortcodes.php:200
+msgid "Choose Block Post Title color"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:230 modules/p3/vc_shortcodes.php:262
+#: modules/p4/vc_shortcodes.php:271 modules/p5/vc_shortcodes.php:273
+#: modules/p6/vc_shortcodes.php:264 modules/p7/vc_shortcodes.php:229
+#: modules/p8/vc_shortcodes.php:230 modules/p9/vc_shortcodes.php:214
+msgid "Block Date & Meta color"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:317 modules/p6/vc_shortcodes.php:339
+#: modules/p7/vc_shortcodes.php:308 modules/p8/vc_shortcodes.php:294
+#: modules/p9/vc_shortcodes.php:301
+msgid "Title Font Size"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:325 modules/p6/vc_shortcodes.php:347
+#: modules/p7/vc_shortcodes.php:316 modules/p8/vc_shortcodes.php:302
+#: modules/p9/vc_shortcodes.php:309
+msgid "Title Line Height"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:451 modules/p2/vc_shortcodes.php:556
+#: modules/p3/vc_shortcodes.php:446 modules/p4/vc_shortcodes.php:455
+#: modules/p5/vc_shortcodes.php:486 modules/p7/vc_shortcodes.php:413
+#: modules/p8/vc_shortcodes.php:399 modules/p9/vc_shortcodes.php:406
+msgid "Button Width"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:453 modules/p2/vc_shortcodes.php:558
+#: modules/p3/vc_shortcodes.php:448 modules/p4/vc_shortcodes.php:457
+#: modules/p5/vc_shortcodes.php:488 modules/p7/vc_shortcodes.php:415
+#: modules/p8/vc_shortcodes.php:401 modules/p9/vc_shortcodes.php:408
+msgid "Insert button size (e.g 220px)"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:459 modules/p2/vc_shortcodes.php:312
+#: modules/p3/vc_shortcodes.php:479 modules/p4/vc_shortcodes.php:517
+#: modules/p5/vc_shortcodes.php:518
+msgid "On/Off Small post cat meta"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:483 modules/p3/vc_shortcodes.php:535
+#: modules/p4/vc_shortcodes.php:573 modules/p5/vc_shortcodes.php:574
+#: modules/p7/vc_shortcodes.php:445 modules/p9/vc_shortcodes.php:422
+msgid "Block Meta Anchor Color"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:499
+msgid "Read More Button Color"
+msgstr ""
+
+#: modules/p10/vc_shortcodes.php:507 modules/p2/vc_shortcodes.php:572
+#: modules/p3/vc_shortcodes.php:551 modules/p4/vc_shortcodes.php:597
+#: modules/p5/vc_shortcodes.php:598 modules/p7/vc_shortcodes.php:461
+#: modules/p8/vc_shortcodes.php:427 modules/p9/vc_shortcodes.php:454
+msgid "Load More Button Background Color"
+msgstr ""
+
+#: modules/p2/vc_shortcodes.php:13
+msgid "FThemes - Post Block 2"
+msgstr ""
+
+#: modules/p2/vc_shortcodes.php:20
+msgid "Post Block 2"
+msgstr ""
+
+#: modules/p3/shortcodes.php:325 modules/p9/shortcodes.php:278
+msgid "By"
+msgstr ""
+
+#: modules/p3/vc_shortcodes.php:13
+msgid "FThemes - Post Block 3"
+msgstr ""
+
+#: modules/p3/vc_shortcodes.php:20
+msgid "Post Block 3"
+msgstr ""
+
+#: modules/p4/vc_shortcodes.php:13
+msgid "FThemes - Post Block 4"
+msgstr ""
+
+#: modules/p4/vc_shortcodes.php:20
+msgid "Post Block 4"
+msgstr ""
+
+#: modules/p4/vc_shortcodes.php:589
+msgid "Button Background Color"
+msgstr ""
+
+#: modules/p5/vc_shortcodes.php:13
+msgid "FThemes - Post Block 5"
+msgstr ""
+
+#: modules/p5/vc_shortcodes.php:20
+msgid "Post Block 5"
+msgstr ""
+
+#: modules/p5/vc_shortcodes.php:191
+msgid "Small Posts Title Limit In Word (Optional)"
+msgstr ""
+
+#: modules/p5/vc_shortcodes.php:200
+msgid "Small Posts Excerpt Limit In Word (Optional)"
+msgstr ""
+
+#: modules/p5/vc_shortcodes.php:590 modules/p7/vc_shortcodes.php:155
+msgid "Block Category Background Color"
+msgstr ""
+
+#: modules/p6/vc_shortcodes.php:13
+msgid "FThemes - Post Block 6"
+msgstr ""
+
+#: modules/p6/vc_shortcodes.php:20
+msgid "Post Block 6"
+msgstr ""
+
+#: modules/p6/vc_shortcodes.php:156
+msgid "Do you want Tab options? [PRO FEATURES]"
+msgstr ""
+
+#: modules/p6/vc_shortcodes.php:168
+msgid "Choose Category For Top Tabs"
+msgstr ""
+
+#: modules/p6/vc_shortcodes.php:175
+msgid ""
+"You must choose at least 1 category from here to make the tab options work"
+msgstr ""
+
+#: modules/p6/vc_shortcodes.php:187
+msgid ""
+"You must choose at least 2 category from here to make the tab options work"
+msgstr ""
+
+#: modules/p6/vc_shortcodes.php:272 modules/p8/vc_shortcodes.php:407
+msgid "On/Off post date meta"
+msgstr ""
+
+#: modules/p6/vc_shortcodes.php:452
+msgid "Tab Line Height"
+msgstr ""
+
+#: modules/p7/vc_shortcodes.php:13
+msgid "FThemes - Post Block 7"
+msgstr ""
+
+#: modules/p7/vc_shortcodes.php:20
+msgid "Post Block 7"
+msgstr ""
+
+#: modules/p7/vc_shortcodes.php:158
+msgid "Choose Block Category Background Color"
+msgstr ""
+
+#: modules/p7/vc_shortcodes.php:421 modules/p9/vc_shortcodes.php:430
+msgid "On/Off  post cat meta"
+msgstr ""
+
+#: modules/p7/vc_shortcodes.php:433 modules/p9/vc_shortcodes.php:442
+msgid "On/Off  post date meta"
+msgstr ""
+
+#: modules/p8/vc_shortcodes.php:13
+msgid "FThemes - Post Block 8"
+msgstr ""
+
+#: modules/p8/vc_shortcodes.php:20
+msgid "Post Block 8"
+msgstr ""
+
+#: modules/p8/vc_shortcodes.php:164
+msgid "Posts Title Limit In Character (Optional)"
+msgstr ""
+
+#: modules/p9/vc_shortcodes.php:13
+msgid "FThemes - Post Block 9"
+msgstr ""
+
+#: modules/p9/vc_shortcodes.php:20
+msgid "Post Block 9"
+msgstr ""
